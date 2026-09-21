@@ -1,4 +1,4 @@
-package com.example.clinic.entity;
+package com.example.clinic.model;
 
 import java.time.LocalDate;
 
